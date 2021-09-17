@@ -42,6 +42,7 @@ class Menu extends React.Component {
                             <h6 className="collapse-header">Custom Components:</h6>
                             <NavLink className="collapse-item" to="/portfolio">Потфолио</NavLink>
                             <NavLink className="collapse-item" to="/services">Услуги</NavLink>
+                            <NavLink className="collapse-item" to="/slider">Слайдер</NavLink>
                         </div>
                     </div>
                 </li>
